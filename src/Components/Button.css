@@ -1,0 +1,16 @@
+.button_style{
+  background-color: transparent;
+  width: 100px;
+  height: 35px;
+  border-radius: 5px;
+  border: 1px solid skyblue;
+  color: white;
+  text-transform: uppercase;
+}
+.button_style:hover{
+  background: turquoise;
+}
+.button_style:focus{
+   box-shadow: 0 0 10px black;
+   border: 1.4px solid white;
+}
